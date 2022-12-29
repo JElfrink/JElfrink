@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JElfrink
+- 👋 Hi, I’m @JElfrink also known as Jasper Elfrink, I'm a baseball player and student currently residing in the Netherlands
 - 👀 I’m interested in Sports Research with a focus on Baseball
 - 🌱 I’m currently learning Python
 - 🌱 I'm currently in the Research Master's Program Human Movement Sciences at the Vrije University Amsterdam
