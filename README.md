@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JElfrink also known as Jasper Elfrink, I'm a baseball player and student currently residing in the Netherlands
 - 👀 I’m interested in Sports Research with a focus on Baseball
 - 🌱 I’m currently learning Python
-- 🌱 I'm currently in the Research Master's Program Human Movement Sciences at the Vrije University Amsterdam
+- 🌱 I just graduated from the Research Master's Program Human Movement Sciences at the Vrije University Amsterdam (August 2024)
 - 💞️ I’m looking to collaborate on any type of sports research
 - 📫 How to reach me: Just shoot me a message
 
